@@ -1,0 +1,4 @@
+# https://wiki.postmarketos.org/wiki/Porting_to_a_new_device#Introduction
+Depending on your selection, pmbootstrap may ask you to analyze a boot.img file to get offset values required for the flash method. 
+Get the right one for your device from TWRP (twrp-*.img), LineageOS (boot.img inside the zip archive) or by extracting it from within a running Android. 
+If you can't find any, you can skip this step for now by just pressing the return key. 
